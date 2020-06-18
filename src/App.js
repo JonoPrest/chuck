@@ -31,7 +31,7 @@ class App extends React.Component {
     <div className="tc fl w-100 pa2">
       <img className="" src={Norris}/>
       <div className="center fl w-100 pa3">
-        <button className="bg-dark-green white courier" onClick={chuckJoke}>Tell Me a Chuck Norris Joke PLZ...</button>
+        <button className="link black dim bg-dark-green white courier" onClick={chuckJoke}>Tell Me a Chuck Norris Joke PLZ...</button>
       </div> 
       <div className="center mw5 pa3" >
         <Joke text={this.state.joke} />
