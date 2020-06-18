@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/chuck/static/css/main.5f361e03.chunk.css",
+    "main.js": "/chuck/static/js/main.e0135045.chunk.js",
+    "main.js.map": "/chuck/static/js/main.e0135045.chunk.js.map",
+    "runtime-main.js": "/chuck/static/js/runtime-main.3b11d4e6.js",
+    "runtime-main.js.map": "/chuck/static/js/runtime-main.3b11d4e6.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/chuck/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.561cc180.chunk.js": "/chuck/static/js/2.561cc180.chunk.js",
+    "static/js/2.561cc180.chunk.js.map": "/chuck/static/js/2.561cc180.chunk.js.map",
+    "index.html": "/chuck/index.html",
+    "precache-manifest.923778cfbeee25d0d6237786b8fcb428.js": "/chuck/precache-manifest.923778cfbeee25d0d6237786b8fcb428.js",
+    "service-worker.js": "/chuck/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/chuck/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/chuck/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.561cc180.chunk.js.LICENSE.txt": "/chuck/static/js/2.561cc180.chunk.js.LICENSE.txt",
+    "static/media/Norris.jpg": "/chuck/static/media/Norris.f3e4a661.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b11d4e6.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.561cc180.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e0135045.chunk.js"
+  ]
+}
